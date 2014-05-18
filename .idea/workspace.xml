@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7940e366-213b-4809-b9b6-487be7a4dc38" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/product.rb" afterPath="$PROJECT_DIR$/app/models/product.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/models/product_test.rb" afterPath="$PROJECT_DIR$/test/models/product_test.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/fixtures/products.yml" afterPath="$PROJECT_DIR$/test/fixtures/products.yml" />
     </list>
     <ignored path="depot.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,7 +29,7 @@
       <file leaf-file-name="product.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/models/product.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="2" selection-start="202" selection-end="350" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+            <state line="4" column="41" selection-start="241" selection-end="241" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
               <folding />
             </state>
           </provider>
@@ -39,7 +39,10 @@
         <entry file="file://$PROJECT_DIR$/test/fixtures/products.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state line="20" column="21" selection-start="407" selection-end="407" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
-              <folding />
+              <folding>
+                <marker date="1400449336000" expanded="true" signature="170:251" placeholder="two:" />
+                <marker date="1400449336000" expanded="true" signature="252:407" placeholder="ruby:" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -47,7 +50,7 @@
       <file leaf-file-name="product_test.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/models/product_test.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="55" selection-start="1804" selection-end="1804" vertical-scroll-proportion="0.8767123" vertical-offset="215" max-vertical-offset="990">
+            <state line="66" column="69" selection-start="2161" selection-end="2161" vertical-scroll-proportion="0.91780823" vertical-offset="320" max-vertical-offset="1125">
               <folding />
             </state>
           </provider>
@@ -77,8 +80,8 @@
       <list>
         <option value="$PROJECT_DIR$/app/views/products/index.html.erb" />
         <option value="$PROJECT_DIR$/test/controllers/products_controller_test.rb" />
-        <option value="$PROJECT_DIR$/app/models/product.rb" />
         <option value="$PROJECT_DIR$/test/fixtures/products.yml" />
+        <option value="$PROJECT_DIR$/app/models/product.rb" />
         <option value="$PROJECT_DIR$/test/models/product_test.rb" />
       </list>
     </option>
@@ -598,7 +601,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/product.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="2" selection-start="202" selection-end="350" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+        <state line="4" column="41" selection-start="241" selection-end="241" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
           <folding />
         </state>
       </provider>
@@ -606,13 +609,16 @@
     <entry file="file://$PROJECT_DIR$/test/fixtures/products.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="21" selection-start="407" selection-end="407" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
-          <folding />
+          <folding>
+            <marker date="1400449336000" expanded="true" signature="170:251" placeholder="two:" />
+            <marker date="1400449336000" expanded="true" signature="252:407" placeholder="ruby:" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/models/product_test.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="55" selection-start="1804" selection-end="1804" vertical-scroll-proportion="0.8767123" vertical-offset="215" max-vertical-offset="990">
+        <state line="66" column="69" selection-start="2161" selection-end="2161" vertical-scroll-proportion="0.91780823" vertical-offset="320" max-vertical-offset="1125">
           <folding />
         </state>
       </provider>
